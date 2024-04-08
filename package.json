@@ -1,6 +1,6 @@
 {
   "name": "@ra5243/04-todo-list",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "This is a Todo-List-Applicaion",
   "main": "index.js",
   "type": "module",
