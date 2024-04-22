@@ -1,6 +1,6 @@
 {
   "name": "@ra5243/04-todo-list",
-  "version": "2.1.2",
+  "version": "2.2.2",
   "description": "This is a Todo-List-Applicaion",
   "main": "index.js",
   "type": "module",
@@ -15,6 +15,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@ra5243/04-todo-list": "^2.2.2",
     "chalk": "^5.3.0",
     "inquirer": "^9.2.17"
   },
